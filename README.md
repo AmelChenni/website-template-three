@@ -32,4 +32,4 @@ Planned JavaScript enhancements:
 ---
 
 ## 📷 Preview
-![Preview Screenshot](landingpage.png)
+![Preview Screenshot](screenshot.png)
